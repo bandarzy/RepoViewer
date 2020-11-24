@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubViewer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">keywords separated by coma, eg \'android, rxjaxva\'</string>
+    <string name="owner_avatar">Owner avatar</string>
+    <string name="message_no_results">No results</string>
+</resources>
